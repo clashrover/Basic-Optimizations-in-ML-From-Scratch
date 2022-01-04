@@ -1,0 +1,6 @@
+For Logistic Reg learning rate = 0.1 
+Convergence lim: 1e-06 
+Theta:
+ [[ 0.40074922]
+ [ 2.58692729]
+ [-2.72383067]]
